@@ -6,3 +6,5 @@ Friends CRUD
 
 I'm following a tutorial to build and Friends web CRUD.
 
+Stack: Ruby on Rails
+
