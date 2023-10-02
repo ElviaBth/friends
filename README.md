@@ -8,3 +8,4 @@ I'm following a tutorial to build and Friends web CRUD.
 
 Stack: Ruby on Rails
 
+![image](https://github.com/ElviaBth/friends/assets/116598037/9d36f219-e1f1-4aef-81c7-ee14032563de)
